@@ -31,63 +31,63 @@
       "name_category": "Parallax",
       "wallpaper_name": "bff",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/Studio_Project%20(10).jpeg"
+      "wallpaper_url": "image/bff9"
     },
     {
       "id": 2,
       "name_category": "Parallax",
       "wallpaper_name": "bff2",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/Studio_Project%20(11).jpeg"
+      "wallpaper_url": "image/bff8"
     },
     {
       "id": 3,
       "name_category": "Parallax",
       "wallpaper_name": "bff3",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/Studio_Project%20(12).jpeg"
+      "wallpaper_url": image/bff7"
     },
     {
       "id": 4,
       "name_category": "Parallax",
       "wallpaper_name": "bff4",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/Studio_Project%20(13).jpeg"
+      "wallpaper_url": "image/bff6"
     },
     {
       "id": 5,
       "name_category": "Parallax",
       "wallpaper_name": "bff5",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/Studio_Project%20(8).jpeg"
+      "wallpaper_url": "image/bff5"
     },
     {
       "id": 6,
       "name_category": "Parallax",
       "wallpaper_name": "bff6",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/Studio_Project%20(9).jpeg"
+      "wallpaper_url": "image/bff4"
     },
     {
       "id": 7,
       "name_category": "Parallax",
       "wallpaper_name": "bff7",
       "wallpaper_type": "IMAGE",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/bff3.jpeg"
+      "wallpaper_url": "image/bff3"
     },
     {
       "id": 8,
       "name_category": "Parallax",
       "wallpaper_name": "bff8",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/bff1.jpeg"
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/bff1.jpeg"
     },
     {
       "id": 9,
       "name_category": "Parallax",
       "wallpaper_name": "bff9",
-      "wallpaper_type": "GIF",
-      "wallpaper_url": "https://raw.githubusercontent.com/masutarji/gudang/main/bff2.jpeg"
+      "wallpaper_type": "IMAGE",
+      "wallpaper_url": "image/bff2.jpeg"
     }
   ]
 }
