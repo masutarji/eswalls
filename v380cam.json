@@ -23,9 +23,9 @@
    "More": [
     {
       "id": 1,
-      "title": "IQ Test vs The Moron Test",
-      "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
+      "title": "BFF Wallpaper Couple",
+      "image": "https://play-lh.googleusercontent.com/VPs_9ltT23q97812cmxdWFrdwEadJahCZf0hRrjPbcXbpaeOIaqygMtsnz1usw6QRg0=w240-h480-rw",
+      "link": "https://play.google.com/store/apps/details?id=com.joshapp.bestfriend.bffwallpaper"
     }
   ],
   "Categories": [
@@ -38,10 +38,10 @@
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
+      "name_category": "Tutorial",
       "title": "Reset Device Guide",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "image": "https://www.nvripc.com/wp-content/uploads/2021/05/v380b.jpg",
+      "description": "How to Reset Device Guide",
       "link": "https://masutarji.github.io/isinya/restdevice.html"
     },
     {
