@@ -48,32 +48,32 @@
       "id": 2,
       "name_category": "Tutorial",
       "title": "Network configuration",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "image": "https://v380.org/wp-content/uploads/2021/06/Network-configuration.png",
+      "description": "Network configuration Guide",
       "link": "https://masutarji.github.io/isinya/networkconfig.html"
     },
     {
       "id": 3,
       "name_category": "Tutorial",
       "title": "AP quick configuration",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "image": "https://v380.org/wp-content/uploads/2021/06/A.AP-quick-configuration.png",
+      "description": "AP quick configuration Guide",
       "link": "https://masutarji.github.io/isinya/quickconfig.html"
     },
     {
       "id": 4,
       "name_category": Tutorial",
       "title": "WIfI smart link configuration",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "image": "https://v380.org/wp-content/uploads/2021/06/C.wi-fi-smart-link-configuration.png",
+      "description": "WIfI smart link configuration Guide",
       "link": "https://masutarji.github.io/isinya/wifismart.html"
     },
     {
       "id": 5,
       "name_category": "Tutorial",
       "title": "AP Hot spot configuration",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "image": "https://images.othoba.com/images/thumbs/0263953_v380-q9-720p-day-night-wireless-p2p-ip-ptz-cctv-camera.jpeg",
+      "description": "AP Hot spot configuration Guide",
       "link": "https://masutarji.github.io/isinya/hotspotconfig.html"
     }
   ]
