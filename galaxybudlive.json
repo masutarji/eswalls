@@ -71,18 +71,18 @@
     {
       "id": 5,
       "name_category": "Tutorial",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "title": "Call Features Guide",
+      "image": "https://cdn.vox-cdn.com/thumbor/zqY_7dsMDvOr78EDSk0ayHTgFUM=/0x146:2040x1214/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/19742301/DSCF5631.jpg",
+      "description": "How to use Call Features",
+      "link": "https://masutarji.github.io/isinya/callfeatures.html"
     },
     {
       "id": 6,
       "name_category": "Tutorial",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
-      "link": "file:///android_asset/guide/guide2.html"
+      "title": "Music Features Guide",
+      "image": "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-760w,f_auto,q_auto:best/newscms/2021_12/3459195/samsung-pro-earbuds-bd-2x1.jpg",
+      "description": "Music Features Guide for galaxy buds",
+      "link": "https://masutarji.github.io/isinya/musicfeatures.html"
     }
   ]
 }
