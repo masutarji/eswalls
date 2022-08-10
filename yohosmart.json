@@ -26,104 +26,62 @@
       "title": "IQ Test vs The Moron Test",
       "image": "https://play-lh.googleusercontent.com/-hbyzqqYI7QzD_m0QwQrawyqaydnWMgR0Lht24oSSBYjj_YkVmImcId_KFunuWQuWAE=s180-rw",
       "link": "https://play.google.com/store/apps/details?id=com.aliendroid.squidiqgame"
-    },
-    {
-      "id": 2,
-      "title": "Skins Editor for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/cYR5MGCN1wmwJ4iPFnLY8VRrysIctw90JUxkTQkkB-utrSFLd2j5vNX7NsUs4xL5Gw=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.skinforminecraft"
-    },
-    {
-      "id": 3,
-      "title": "Nova Skin for Minecraft PE",
-      "image": "https://play-lh.googleusercontent.com/WfMISX2KSNgtyCOB7Xp4eTdG1Ic1uUDLMet_mb8dSP9u9tEnus4jCnfM7Gf-H5YLZ4Y=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.novaskinformcpe"
-    },
-    {
-      "id": 4,
-      "title": "Scanner Document App - HD PDF",
-      "image": "https://play-lh.googleusercontent.com/pIDr4jeoEtbwOoYWanvAQRDHI3EYoJrt66XQwBCZpnVNi6t1XSEYy_O7vo8OgaWerg=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.pdfscanner"
-    },
-    {
-      "id": 6,
-      "title": "Super Math Solver Calculator",
-      "image": "https://play-lh.googleusercontent.com/v_BaqS10DTTxIQ6tpE3xbITicy-sfa0Xr0l72EZ0C6Oh70U8wTTiNuVfEMzm3cc0Pec=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.calculator"
-    },
-    {
-      "id": 8,
-      "title": "Twibbon Maker",
-      "image": "https://play-lh.googleusercontent.com/SKzgotlXDUORcqorDrrTmv4MDs0A35r-qRmavl-cEQYzBXsRelQc84-Z2mtpQoJ9aFA=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.twibbonmaker"
-    },
-    {
-      "id": 9,
-      "title": "Kamus Bahasa Indonesia",
-      "image": "https://play-lh.googleusercontent.com/IVpIzBITIgelJ6jV1Ht1TlxaRLzEX42treUbB0__ceWRfIqipLjSiSvUdZWibdVMdCu_=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.kamusbahasaindonesia"
-    },
-    {
-      "id": 10,
-      "title": "Data Gempabumi Terbuka",
-      "image": "https://play-lh.googleusercontent.com/vT2w77gQj8WMKxYri7uaz-lrQYXILNbhAWJlFj1DWNbVpy2Hv-ZNEO-rISKyLi_ui6o=s180-rw",
-      "link": "https://play.google.com/store/apps/details?id=com.aliendroid.datagempaindonesia"
-    }
+    
   ],
   "Categories": [
     {
       "id": 1,
       "name_category": "Tutorial",
-      "image": "file:///android_asset/image/image1.png"
+      "image": "https://i.ytimg.com/vi/15RkpeLrlQQ/maxresdefault.jpg"
     }
   ],
   "Data": [
     {
       "id": 1,
-      "name_category": "Playstore",
-      "title": "Cara mengisi Form Data Safety",
-      "image": "file:///android_asset/image/guide1.jpg",
-      "description": "Akhir-akhir ini banyak sekali aplikasi yang mendapatkan peringatan terkait pengisian kemanan data / data safety. Keamanan data akan diwajibkan pada bulan April 2022, ",
+      "name_category": "Tutoriale",
+      "title": "App functions and settings",
+      "image": "https://i.ytimg.com/vi/15RkpeLrlQQ/maxresdefault.jpg",
+      "description": "App functions and settings guide",
       "link": "https://masutarji.github.io/isinya/appfunctionsetting.html"
     },
     {
       "id": 2,
       "name_category": "Tutorial",
-      "title": "Cara beriklan google ads untuk aplikasi dengan penawaran 50-100 rupiah/install",
-      "image": "file:///android_asset/image/guide2.jpg",
-      "description": "Tulisan ini sebenarnya tidak akan di share dan direkam sesuai permintaan member lain, akan tetapi banyaknya yang PM penulis dan tidak mungkin harus dibalas satu persatu akhirnya tulisan ini penulis post.",
+      "title": "Bundle the band to APP",
+      "image": "https://manuals.plus/wp-content/uploads/2021/02/Bundle-the-band-to-APP-300x135.png",
+      "description": "Bundle the band to APP guide",
       "link": "https://masutarji.github.io/isinya/bundleband.html"
     },
     {
       "id": 3,
       "name_category": "Tutorial",
-      "title": "Modul Simpan Json di Hosting dan Google Drive",
-      "image": "https://aliendro.id/uploads/blog/202105/img_608ff8501e0194-32209729-64468304.jpg",
-      "description": "Sesuai dengan permintaan member Alien yang membutuhkan fasilitas google drive untuk menyimpan json, Insya Allah saya coba buatkan panduannya dengan menggunakan Free SC Aliendroid Live Wallpaper, ",
+      "title": "Band operation",
+      "image": "https://manuals.plus/wp-content/uploads/2021/02/YOHO-Sports-Band-Quick-Setup-Guide-300x300.jpg",
+      "description": "Band operation guide",
       "link": "https://masutarji.github.io/isinya/bandoperatio.html"
     },
     {
       "id": 4,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "name_category": "Tutorial",
+      "title": "Power on/off",
+      "image": "https://image.made-in-china.com/318f0j00uQOtZfzIjThE/ID115-Plus-mp4.jpg",
+      "description": "Power on/off guide",
       "link": "https://masutarji.github.io/isinya/poweron.html"
     },
     {
       "id": 5,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "name_category": "Tutorial",
+      "title": "Charging the band",
+      "image": "https://manuals.plus/wp-content/uploads/2019/03/YOHO-sports-band-2.png",
+      "description": "Charging method for the band",
       "link": "https://masutarji.github.io/isinya/chargingband.html"
     },
     {
       "id": 6,
-      "name_category": "Reskin",
-      "title": "Cara menggunakan Alien SDK Ads",
-      "image": "https://s3.ap-southeast-1.amazonaws.com/aliendroid/uploads/blog/202110/img_616ec085d59259-83419139-77466732.jpg",
-      "description": "Alhamdulillah projek Alien Sdk Ads sudah tahap versi Jupiter-04. Bagi pengguna SC Aliendroid mungkin sudah tidak asing lagi dengan istilah Alien Sdk Ads.",
+      "name_category": "Tutorial",
+      "title": "Wearing Method",
+      "image": "https://manuals.plus/wp-content/uploads/2021/02/Wearing-Method-300x175.png",
+      "description": "Wearing Method band",
       "link": "https://masutarji.github.io/isinya/weringmethod.html"
     }
   ]
