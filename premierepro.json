@@ -95,7 +95,7 @@
       "name_category": "Kaffah Official",
       "title": "Bumi Syam : Tanah Para Nabi",
       "image": "file:///android_asset/image/syam.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "link_video": "https://archive.org/download/premier-tutorial-2/premier%20tutorial%202.mp4",
       "description": "Contoh Video 1 : Video di unggah ke hosting pribadi dengan format *.mp4, support berbagai ektensi video"
     },
     {
@@ -103,7 +103,7 @@
       "name_category": "Kaffah Official",
       "title": "Tiupan Sangsakala Hari Kiamat",
       "image": "file:///android_asset/image/sangsakala.jpg",
-      "link_video": "https://ia601509.us.archive.org/31/items/alien2_202203/alien.mp4",
+      "link_video": "https://archive.org/download/premier-tutorial-2/premier%20tutor%201.mp4",
       "description": "Contoh Video 2 : Video di unggah ke archive.org dengan format *.mp4, support berbagai ektensi video"
     }
   ,
@@ -112,7 +112,7 @@
       "name_category": "Kaffah Official",
       "title": "Kisah Turunnya Kitab Taurat",
       "image": "https:/aliendro.id/uploads/demo/videoonline/taurat.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
+      "link_video": "https://archive.org/download/cinematic_202208/cinematic.mp4",
       "description": "Contoh Video 3 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
     }
     ,
@@ -121,42 +121,8 @@
       "name_category": "Kaffah Official",
       "title": "Runtuhnya Israel Di Akhir Zaman",
       "image": "file:///android_asset/image/israel.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
+      "link_video": "https://archive.org/download/cinematic_202208/text%20effect.mp4",
       "description": "Contoh Video 4 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-  ,
-    {
-      "id": 5,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Khandak",
-      "image": "file:///android_asset/image/khandak.jpg",
-      "link_video": "https:/aliendro.id/projek/alien2.mp4",
-      "description": "Contoh Video 5 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    }
-  ,
-    {
-      "id": 6,
-      "name_category": "Kaffah Official",
-      "title": "Sejarah Perang Ain Zalut",
-      "image": "file:///android_asset/image/zalut.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 6 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    } ,
-    {
-      "id": 7,
-      "name_category": "Ferry Chanel",
-      "title": "Kisah Imam Malik",
-      "image": "https://img.youtube.com/vi/LMfGloeVWTE/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 7 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
-    },
-    {
-      "id": 8,
-      "name_category": "Ferry Chanel",
-      "title": "Alam Malaikat",
-      "image": "https://img.youtube.com/vi/-RFS6z52LgY/maxresdefault.jpg",
-      "link_video": "https:/aliendro.id/projek/alien.mp4",
-      "description": "Contoh Video 8 : 1st - Marketplace Source Code untuk Monetize Mobile Application terbesar di Indonesia. Gabung bersama kami di grup telegram untuk saling curhat limit Admob"
     }
   ]
 }
