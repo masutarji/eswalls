@@ -1,12 +1,12 @@
 {
   "Ads": [
     {
-      "select_main_ads": "IRON",
-      "select_backup_ads":"ADMOB",
-      "main_ads_banner": "NULL",
-      "main_ads_intertitial":"NULL",
-      "backup_ads_banner":"ca-app-pub-6724886716801564/1127742006",
-      "backup_ads_intertitial":"ca-app-pub-6724886716801564/6188496991",
+      "select_main_ads": "ADMOB",
+      "select_backup_ads":"IRON",
+      "main_ads_banner": "ca-app-pub-6724886716801564/1127742006",
+      "main_ads_intertitial":"ca-app-pub-6724886716801564/6188496991",
+      "backup_ads_banner":"ca-app-pub-6724886716801564/1127742006x",
+      "backup_ads_intertitial":"ca-app-pub-6724886716801564/6188496991x",
       "interval_intertitial": 1,
       "initialize_sdk":"15643fb41",
       "initialize_sdk_backup_ads":"15643fb41",
